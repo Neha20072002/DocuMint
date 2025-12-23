@@ -17,19 +17,6 @@ The tool is designed to be **simple, fast, and dependency‑minimal**, relying o
 
 ---
 
-## 📂 Project Structure
-
-```text
-DocuMint/
-├── main.py           # Core script
-├── IEEE.pdf          # Input PDF template (example)
-├── data.csv          # CSV containing names (first column)
-├── gen/              # Auto-generated output PDFs
-└── README.md
-```
-
----
-
 ## ⚙️ Requirements
 
 * Python **3.8+**
